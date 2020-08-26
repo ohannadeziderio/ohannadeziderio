@@ -4,8 +4,6 @@
 :earth_americas: Je suis brésilienne | I'm brazilian <br />
 :speaking_head: Je parle le portugais, le français, l'anglais et le Java. | I speak Portuguese, French, English and Java
 
-<br />
-
 ### À propos de moi | About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ohannadeziderio)](https://github.com/ohannadeziderio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohanna-d-85a787a5/)](https://www.linkedin.com/in/ohanna-d-85a787a5/)
@@ -14,8 +12,6 @@
 :mortar_board: Je suis étudiante en Génie Logiciel à l'[UFRN](https://www.ufrn.br/) | I study Software Engineering at [UFRN](https://www.ufrn.br/) <br />
 :office: Je travaille chez [ESIG Software e Consultoria](https://www.esig.com.br/portal/) | I’m currently working at [ESIG Software & Consultoria](https://www.esig.com.br/) <br />
 :coffee: J'adore le café | I love coffee
-
-<br />
 
 ### Langages et Outils | Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://tech-computer.fr/wp-content/uploads/2017/03/004-java.png"/>
