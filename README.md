@@ -4,7 +4,10 @@
  
 ## Je m'appelle Ohanna Dezidério!
  
-… Insira suas descrições aqui!
+Je suis brésilienne
+Je suis étudiente en Génie Logiciel à l'UFRN
+Je travaille chez ESIG Software e Consultoria(https://www.esig.com.br/portal/)
+Je parle le portugais, le français, l'anglais et le Java.
  
  
 ## À propos de moi
