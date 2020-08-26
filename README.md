@@ -1,6 +1,4 @@
-<img align="right" width="400" height="400" src="https://avatars1.githubusercontent.com/u/18699240?s=60&v=4">
- 
-# Bienvenu.e.s!
+ # Bienvenu.e.s!
  
 ## Je m'appelle Ohanna Dezidério!
  
