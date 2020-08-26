@@ -1,16 +1,17 @@
  # Bienvenu.e.s! Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 ## Je m'appelle Ohanna Dezidério | I'm Ohanna Dezidério
-- Je suis brésilienne | I'm brazilian
-- Je parle le portugais, le français, l'anglais et le Java. | I speak Portuguese, French, English and Java
+:earth_americas: Je suis brésilienne | I'm brazilian
+:speaking_head: Je parle le portugais, le français, l'anglais et le Java. | I speak Portuguese, French, English and Java
  
 ### À propos de moi | About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ohannadeziderio)](https://github.com/ohannadeziderio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohanna-d-85a787a5/)](https://www.linkedin.com/in/ohanna-d-85a787a5/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohannadeziderio@gmail.com)](mailto:ohannadeziderio@gmail.com)
 
-- Je suis étudiante en Génie Logiciel à l'[UFRN](https://www.ufrn.br/) | I study Software Engineering at [UFRN](https://www.ufrn.br/)
-- Je travaille chez [ESIG Software e Consultoria](https://www.esig.com.br/portal/) | I’m currently working at [ESIG Software & Consultoria](https://www.esig.com.br/)
+:mortar_board: Je suis étudiante en Génie Logiciel à l'[UFRN](https://www.ufrn.br/) | I study Software Engineering at [UFRN](https://www.ufrn.br/)
+:office: Je travaille chez [ESIG Software e Consultoria](https://www.esig.com.br/portal/) | I’m currently working at [ESIG Software & Consultoria](https://www.esig.com.br/)
+:coffee: J'adore le café | I love coffee
 
 ### Langages et Outils | Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://tech-computer.fr/wp-content/uploads/2017/03/004-java.png"/>
@@ -28,9 +29,11 @@
 <img align="left" alt="Postgresql" width="26px" src="https://user-images.githubusercontent.com/38151364/89708990-2b95ba80-d952-11ea-82b3-03bde22c56ef.png"/>
 <img align="left" alt="DynamoDB" width="26px" src="https://cache-site.s3.amazonaws.com/wp-content/uploads/2020/08/21150611/DybamoDB-logo.png"/>
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" alt="Eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/eclipse-14-282371.png"/>
+<img align="left" alt="IntelliJ" width="26px" src="https://lh3.googleusercontent.com/proxy/GRCqJOHpESrdX9NJMc13q7kM8lOTeuuUkr2cnyFgepKODVfcKKdCDben9nrncygJp2c1FvJAlb6JCheek_gFcYC_YkbJ1JVF2JQLwiD6cdCGwN1oCHw"/>
 <img align="left" alt="Prompt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
 <<br />
 br />
 
-- ### À bientôt! Merci pour votre visite. | See you! Thanks for your visite.
+### À bientôt! Merci pour votre visite. | See you! Thanks for your visite.
