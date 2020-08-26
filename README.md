@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/C4E03AQH-VtkBb8OxNA/profile-displayphoto-shrink_100_100/0?e=1603929600&v=beta&t=au8GRbtQZ04MTwbnmC8MUIfKQlHtk8lT-1w9w1q2voY">
+<img align="right" width="400" height="400" src="https://avatars1.githubusercontent.com/u/18699240?s=60&v=4">
  
 # Bienvenu.e.s!
  
