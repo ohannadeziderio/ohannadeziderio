@@ -12,8 +12,6 @@
 - Je suis étudiante en Génie Logiciel à l'[UFRN](https://www.ufrn.br/) | I study Software Engineering at [UFRN](https://www.ufrn.br/)
 - Je travaille chez [ESIG Software e Consultoria](https://www.esig.com.br/portal/) | I’m currently working at [ESIG Software & Consultoria](https://www.esig.com.br/)
 
-<br />
-
 ### Langages et Outils | Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://tech-computer.fr/wp-content/uploads/2017/03/004-java.png"/>
 <img align="left" alt="Groovy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png"/>
@@ -32,6 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img align="left" alt="Prompt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
-<br />
+<<br />
+br />
 
 - ### À bientôt! Merci pour votre visite. | See you! Thanks for your visite.
