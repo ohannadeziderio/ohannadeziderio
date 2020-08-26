@@ -1,7 +1,7 @@
  # Bienvenu.e.s! Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 ## Je m'appelle Ohanna Dezidério | I'm Ohanna Dezidério
-:earth_americas: Je suis brésilienne | I'm brazilian
+:earth_americas: Je suis brésilienne | I'm brazilian <br />
 :speaking_head: Je parle le portugais, le français, l'anglais et le Java. | I speak Portuguese, French, English and Java
  
 ### À propos de moi | About me
@@ -9,8 +9,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohanna-d-85a787a5/)](https://www.linkedin.com/in/ohanna-d-85a787a5/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohannadeziderio@gmail.com)](mailto:ohannadeziderio@gmail.com)
 
-:mortar_board: Je suis étudiante en Génie Logiciel à l'[UFRN](https://www.ufrn.br/) | I study Software Engineering at [UFRN](https://www.ufrn.br/)
-:office: Je travaille chez [ESIG Software e Consultoria](https://www.esig.com.br/portal/) | I’m currently working at [ESIG Software & Consultoria](https://www.esig.com.br/)
+:mortar_board: Je suis étudiante en Génie Logiciel à l'[UFRN](https://www.ufrn.br/) | I study Software Engineering at [UFRN](https://www.ufrn.br/) <br />
+:office: Je travaille chez [ESIG Software e Consultoria](https://www.esig.com.br/portal/) | I’m currently working at [ESIG Software & Consultoria](https://www.esig.com.br/) <br />
 :coffee: J'adore le café | I love coffee
 
 ### Langages et Outils | Languages and Tools
@@ -33,7 +33,4 @@
 <img align="left" alt="IntelliJ" width="26px" src="https://lh3.googleusercontent.com/proxy/GRCqJOHpESrdX9NJMc13q7kM8lOTeuuUkr2cnyFgepKODVfcKKdCDben9nrncygJp2c1FvJAlb6JCheek_gFcYC_YkbJ1JVF2JQLwiD6cdCGwN1oCHw"/>
 <img align="left" alt="Prompt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
-<<br />
-br />
-
-### À bientôt! Merci pour votre visite. | See you! Thanks for your visite.
+### À bientôt! Merci pour votre visite. | See you! Thanks for your visit.
