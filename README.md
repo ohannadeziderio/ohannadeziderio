@@ -2,7 +2,7 @@
  
 ## Je m'appelle Ohanna Dezidério | I'm Ohanna Dezidério
 :earth_americas: Je suis brésilienne | I'm brazilian <br />
-:speaking_head: Je parle le portugais, le français, l'anglais et le Java. | I speak Portuguese, French, English and Java
+:speaking_head: Je parle le portugais, le français, l'anglais et le Java. | I speak Portuguese, French, English and Java.
 
 ### À propos de moi | About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ohannadeziderio)](https://github.com/ohannadeziderio)
