@@ -31,6 +31,7 @@
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/eclipse-14-282371.png"/>
 <img align="left" alt="IntelliJ" width="26px" src="https://lh3.googleusercontent.com/proxy/GRCqJOHpESrdX9NJMc13q7kM8lOTeuuUkr2cnyFgepKODVfcKKdCDben9nrncygJp2c1FvJAlb6JCheek_gFcYC_YkbJ1JVF2JQLwiD6cdCGwN1oCHw"/>
+<img align="left" alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="Prompt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
 <br />
