@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohannadeziderio@gmail.com)](mailto:ohannadeziderio@gmail.com)
 
 :mortar_board: Je suis étudiante en Génie Logiciel à l'[UFRN](https://www.ufrn.br/) | I study Software Engineering at [UFRN](https://www.ufrn.br/) <br />
-:office: Je travaille chez [ESIG Software e Consultoria](https://www.esig.com.br/portal/) | I’m currently working at [ESIG Software & Consultoria](https://www.esig.com.br/) <br />
+:office: Je travaille chez Quark Tecnologia du [ESIG Group](https://www.esig.com.br/portal/) | I’m currently working at the [ESIG Group's](https://www.esig.com.br/) company Quark Tecnologia <br />
 :coffee: J'adore le café | I love coffee
 
 ### Langages et Outils | Languages and Tools
