@@ -14,7 +14,7 @@
 :coffee: J'adore le café | I love coffee
 
 ### Langages et Outils | Languages and Tools
-<img align="left" alt="Java" width="26px" src="https://tech-computer.fr/wp-content/uploads/2017/03/004-java.png"/>
+<img align="left" alt="Java" width="26px" src="http://devthiagofurtado.com/assets/img/java-logo-1.png"/>
 <img align="left" alt="Groovy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png"/>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38151364/89708860-1bc9a680-d951-11ea-8b0a-cf2d9d7c6edf.png"/>
@@ -30,7 +30,7 @@
 <img align="left" alt="DynamoDB" width="26px" src="https://cache-site.s3.amazonaws.com/wp-content/uploads/2020/08/21150611/DybamoDB-logo.png"/>
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/eclipse-14-282371.png"/>
-<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png"/>
+<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>
 <img align="left" alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <!--<img align="left" alt="Prompt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>-->
 
